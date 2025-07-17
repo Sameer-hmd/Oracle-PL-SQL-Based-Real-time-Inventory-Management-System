@@ -16,7 +16,7 @@ Utilize advanced data types, constraints (CHECK, UNIQUE, FK), and indexing strat
 
 Implement triggers on Sales_Order_Items and Purchase_Order_Items tables to automatically adjust Inventory_Levels in real-time.
 
-Error Handling: Use EXCEPTION blocks within triggers and procedures to handle insufficient stock, invalid product IDs, etc., ensuring data integrity.
+Use EXCEPTION blocks within triggers and procedures to handle insufficient stock, invalid product IDs, etc., ensuring data integrity.
 
 ## Concurrency Control: 
 
