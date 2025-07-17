@@ -4,7 +4,7 @@
 
 ## Key Features & PL/SQL Focus Areas:
 
-##Advanced Data Model:
+## Advanced Data Model:
 
 Design a normalized schema (3NF/BCNF) for Products, Warehouses/Locations, Inventory_Levels, Suppliers, Purchase_Orders, Sales_Orders, Audit_Logs, etc.
 
