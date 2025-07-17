@@ -1,5 +1,4 @@
-# Oracle-PL-SQL-Based-Real-time-Inventory-Management-System
-# Project Title: Oracle PL/SQL-Based Real-time Inventory Management System with Automated Reordering and Reporting
+# Oracle-PL-SQL-Based-Real-time-Inventory-Management-System with Automated Reordering and Reporting 
 
 # Objective: Design and implement a robust, highly optimized inventory management system using Oracle SQL and PL/SQL, focusing on real-time stock updates, automated reorder processes, and comprehensive reporting.
 
